@@ -1,0 +1,10 @@
+<settings>
+    <servers>
+        <server>
+            <id>tilab</id>
+            <configuration>
+                <sslVerification>false</sslVerification>
+            </configuration>
+        </server>
+    </servers>
+</settings>
