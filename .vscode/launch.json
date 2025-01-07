@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Não funciona direito ainda. Como especificar "-Dexec.mainClass=jade.Boot"
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "pp.Main",
+            "projectName": "sma",
+            "args": [
+                "-gui",
+                "-local-host",
+                "127.0.0.1",
+                "-local-port",
+                "1099",
+                "jade.Boot;customAgent:pp.Main"
+            ],
+        }
+    ]
+}
