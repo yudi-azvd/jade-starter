@@ -2,7 +2,7 @@
 
 - Java
 - [Maven](https://maven.apache.org/download.cgi) 3.5.4 
-(eu prefiro instalar pelo [asdf](https://asdf-vm.com/guide/getting-started.html)
+(eu prefiro instalar pelo [asdf](https://asdf-vm.com/guide/getting-started.html))
   - Plugin para Maven: https://github.com/halcyon/asdf-maven.
 
 ### Extensões úteis do VSCode
