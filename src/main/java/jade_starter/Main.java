@@ -1,4 +1,4 @@
-package pp;
+package jade_starter;
 
 // https://stackoverflow.com/questions/70405078/vscode-with-custom-settings-xml-maven-file-per-project-in-a-workspace
 // https://stackoverflow.com/questions/74817603/could-not-resolve-jade-dependency

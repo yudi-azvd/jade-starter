@@ -9,7 +9,7 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
-            "mainClass": "pp.Main",
+            "mainClass": "jade_starter.Main",
             "projectName": "sma",
             "args": [
                 "-gui",
@@ -17,7 +17,7 @@
                 "127.0.0.1",
                 "-local-port",
                 "1099",
-                "jade.Boot;customAgent:pp.Main"
+                "jade.Boot;customAgent:jade_starter.Main"
             ],
         }
     ]

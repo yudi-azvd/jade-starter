@@ -14,7 +14,7 @@
 No terminal, execute:
 
 ```sh
-mvn exec:java -Dexec.mainClass=jade.Boot -Dexec.args="-gui -local-host 127.0.0.1 -local-port 1099 jade.Boot;customAgent:pp.Main"
+mvn exec:java -Dexec.mainClass=jade.Boot -Dexec.args="-gui -local-host 127.0.0.1 -local-port 1099 jade.Boot;customAgent:jade_starter.Main"
 ```
 
 Você deve ver algo assim:
